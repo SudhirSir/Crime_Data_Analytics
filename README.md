@@ -131,6 +131,7 @@ Crime-Data-Analytics/
 ## 👤 Author
 
 Sudhir Singh
+
 Data Scientist, Software Developer & Educator
 ---
 
